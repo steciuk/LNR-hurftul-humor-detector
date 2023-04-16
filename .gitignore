@@ -3,3 +3,6 @@ __pycache__
 word2vec
 .pytest_cache
 embeddings
+complete.kv
+glove.6B.100d.txt
+glove.6B.100d.txt.word2vec
