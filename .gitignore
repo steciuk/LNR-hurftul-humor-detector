@@ -3,3 +3,4 @@ __pycache__
 word2vec
 .pytest_cache
 embeddings
+/temp
